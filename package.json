@@ -1,0 +1,22 @@
+{
+  "name": "davids-first-webserver",
+  "version": "1.0.0",
+  "description": "\"This package is a simple web server\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-fall/a01-danassif.git"
+  },
+  "author": "danassif",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-fall/a01-danassif/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-fall/a01-danassif#readme",
+  "dependencies": {
+    "minimist": "^1.2.6"
+  }
+}
